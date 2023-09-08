@@ -2,9 +2,9 @@
 # a url and sequential numbers
 #
 # Will generate a code for
-# https://www.roots.uk/qr/001
-# https://www.roots.uk/qr/002
-# and so on.
+# https://www.roots.uk/qr/001 as 001.png
+# https://www.roots.uk/qr/002 as 002.png
+# and so on, in the same directory as the script.
 #
 #
 # Written by Steve Root, https://www.steveroot.co.uk
